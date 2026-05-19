@@ -1,0 +1,6 @@
+[submodule "implementations/root-authority"]
+	path = implementations/root-authority
+	url = https://github.com/Prometheus-X-association/root-authority.git
+[submodule "implementations/sector-authority"]
+	path = implementations/sector-authority
+	url = https://github.com/Prometheus-X-association/sector-authority.git
