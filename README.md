@@ -1,4 +1,4 @@
-# Prometheus-X — DSIF Reference Implementation
+# Prometheus-X - DSIF Reference Implementation
 
 This repository is the **meta-directory** for [Prometheus-X](https://prometheus-x.org)'s reference implementations of the **Data Space Interoperability Framework (DSIF)** specifications.
 
